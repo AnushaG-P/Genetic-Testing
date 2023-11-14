@@ -1,1 +1,1 @@
-# Genetic-Testing for Disorder Detection
+# Genetic Testing for Disorder Detection
